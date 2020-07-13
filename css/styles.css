@@ -2596,6 +2596,25 @@ a:hover.back-to-top {
     background-color: #f3f7fd;
     color: #5F5EAD;
   }
+
+  .project-page .SLL .microlearning-thumbnails  {
+    /*padding-left: 1rem;
+    padding-right: 1rem; */
+    padding-top: 2rem;
+  }
+
+  .project-page .SLL .microlearning-thumbnails .card {
+    /*padding-left: 1rem;
+    padding-right: 1rem; */
+    margin-bottom: 1rem;
+    
+  }
+
+  .project-page .SLL .microlearning-thumbnails .col {
+    /*padding-left: 1rem;
+    padding-right: 1rem; */
+    height: 5 rem !important;
+  }
 /* end of shared learning library section elements */
 
 
