@@ -2601,20 +2601,20 @@ a:hover.back-to-top {
     /*padding-left: 1rem;
     padding-right: 1rem; */
     padding-top: 2rem;
+    height: 25rem;
   }
 
   .project-page .SLL .microlearning-thumbnails .card {
     /*padding-left: 1rem;
-    padding-right: 1rem; */
+    padding-right: 1rem;*/
     margin-bottom: 1rem;
-    
+
+
+
+
   }
 
-  .project-page .SLL .microlearning-thumbnails .col {
-    /*padding-left: 1rem;
-    padding-right: 1rem; */
-    height: 5 rem !important;
-  }
+
 /* end of shared learning library section elements */
 
 
