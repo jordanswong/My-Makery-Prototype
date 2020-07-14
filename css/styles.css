@@ -2584,7 +2584,7 @@ a:hover.back-to-top {
 
   }
 
-  .project-page .SLL .card{
+  .project-page .SLL .section-head .card{
     max-height: 50px;
     padding-top: 5px;
     padding-left:1rem;
@@ -2598,20 +2598,21 @@ a:hover.back-to-top {
   }
 
   .project-page .SLL .microlearning-thumbnails  {
-    /*padding-left: 1rem;
-    padding-right: 1rem; */
     padding-top: 2rem;
     height: 25rem;
   }
 
   .project-page .SLL .microlearning-thumbnails .card {
-    /*padding-left: 1rem;
-    padding-right: 1rem;*/
     margin-bottom: 1rem;
+    padding-top: 1rem;
+    min-height: 200px;
+    text-align: center !important;
+  }
 
-
-
-
+  .project-page .SLL .microlearning-thumbnails .card img {
+    margin-top: 1rem;
+    margin-left:2rem;
+    width:200px;
   }
 
 
