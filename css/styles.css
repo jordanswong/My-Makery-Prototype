@@ -2546,7 +2546,7 @@ a:hover.back-to-top {
 
 /* Project page elements */
   .project-page {
-    margin-top: 2rem;
+    padding-top: 5rem;
   }
 
 /* checkpoint section elements*/
@@ -2606,13 +2606,17 @@ a:hover.back-to-top {
     margin-bottom: 1rem;
     padding-top: 1rem;
     min-height: 200px;
-    text-align: center !important;
+    text-align:center;
   }
 
   .project-page .SLL .microlearning-thumbnails .card img {
     margin-top: 1rem;
-    margin-left:2rem;
+    /*margin-left:2rem;*/
     width:200px;
+  }
+
+  .project-page .SLL .microlearning-thumbnails .card .img-container {
+    text-align: center;
   }
 
 
