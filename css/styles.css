@@ -2619,7 +2619,14 @@ a:hover.back-to-top {
     text-align: center;
   }
 
-
+  .project-page .intern-assignment {
+    padding-left:3rem;
+    padding-right:3rem;
+    margin-top: 1rem;
+  }
+  .project-page .intern-assignment .card {
+    height: 100px;
+  }
 /* end of shared learning library section elements */
 
 
